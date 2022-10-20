@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Compound Configuration" type="CompoundRunConfigurationType">
+    <toRun name="SignalConsoleClient" type="DotNetProject" />
+    <toRun name="SignalDisplay" type="DotNetProject" />
+    <method v="2" />
+  </configuration>
+</component>

@@ -1,0 +1,15 @@
+/Users/ahief/RiderProjects/SignalConsoleClient/SignalDisplay/bin/Debug/net6.0/SignalDisplay
+/Users/ahief/RiderProjects/SignalConsoleClient/SignalDisplay/bin/Debug/net6.0/SignalDisplay.deps.json
+/Users/ahief/RiderProjects/SignalConsoleClient/SignalDisplay/bin/Debug/net6.0/SignalDisplay.runtimeconfig.json
+/Users/ahief/RiderProjects/SignalConsoleClient/SignalDisplay/bin/Debug/net6.0/SignalDisplay.dll
+/Users/ahief/RiderProjects/SignalConsoleClient/SignalDisplay/bin/Debug/net6.0/SignalDisplay.pdb
+/Users/ahief/RiderProjects/SignalConsoleClient/SignalDisplay/obj/Debug/net6.0/SignalDisplay.csproj.AssemblyReference.cache
+/Users/ahief/RiderProjects/SignalConsoleClient/SignalDisplay/obj/Debug/net6.0/SignalDisplay.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahief/RiderProjects/SignalConsoleClient/SignalDisplay/obj/Debug/net6.0/SignalDisplay.AssemblyInfoInputs.cache
+/Users/ahief/RiderProjects/SignalConsoleClient/SignalDisplay/obj/Debug/net6.0/SignalDisplay.AssemblyInfo.cs
+/Users/ahief/RiderProjects/SignalConsoleClient/SignalDisplay/obj/Debug/net6.0/SignalDisplay.csproj.CoreCompileInputs.cache
+/Users/ahief/RiderProjects/SignalConsoleClient/SignalDisplay/obj/Debug/net6.0/SignalDisplay.dll
+/Users/ahief/RiderProjects/SignalConsoleClient/SignalDisplay/obj/Debug/net6.0/refint/SignalDisplay.dll
+/Users/ahief/RiderProjects/SignalConsoleClient/SignalDisplay/obj/Debug/net6.0/SignalDisplay.pdb
+/Users/ahief/RiderProjects/SignalConsoleClient/SignalDisplay/obj/Debug/net6.0/SignalDisplay.genruntimeconfig.cache
+/Users/ahief/RiderProjects/SignalConsoleClient/SignalDisplay/obj/Debug/net6.0/ref/SignalDisplay.dll
